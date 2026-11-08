@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: aion
+Date: Sun, 08 Nov 2026 23:04:50 +0000
+Label: Aion
+Origin: Aion
+Suite: stable
+MD5Sum:
+ 99c60a1be87376170f385f195a1d4bc4              632 Packages
+ 2c2a687e27c031ee60211289fb5552bc              479 Packages.gz
+ 4951d0fe6096baf5692425738d8f89e7               92 Release
+SHA1:
+ a3dac08b3dc729dd5166a4dbc2c2a7a611e5ff99              632 Packages
+ 8393460b1df2c35a59cdf01307150aad738f8bac              479 Packages.gz
+ 0b2c17702e8c1bc8ff0a8ec77ab3033c96f89b90               92 Release
+SHA256:
+ 01e6a35c1a5c1f44922633faec29f71a780d9643d1eeeee8a13944993ce5d095              632 Packages
+ c07c0a03f90a32791008fc2ef4b063c4d157c6196a7aecbce2041f66b2bc12ed              479 Packages.gz
+ 3d5d1489036240caf7cc1d006c337847519bc318278b0bf7d6874e773bff284e               92 Release
+SHA512:
+ 1b9dc094c75ff7be20b20eefdccd2434331b2bab80e680996664f9a5ed63b3abbad6d9fcb7951ab5800a72e924221a9eb7e77a8f3a167f6a7f0cb7f567e02860              632 Packages
+ f3ee9afa31b8810da03c170c34bc793dc02e619312d2071803c73c68d0a2582d9fe7b2da4a23d6365d18ed07218272e14b9e317f260c0ed7602f522157d01191              479 Packages.gz
+ 9e0c53b39ee8f79dbff4a94deccbba36049b2e80243578d3d3281f10b725475e3ea5454451946d19b4c9115b1ffee34b6d7cecc29a1d5768944c1842ef092f66               92 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQTmgHAEY95oNf6ct7zx0eiELSXgwUCavEAEgAKCRDzx0eiELSX
+g3A+AQD+vXvBAUcr3R49Fy37YGN/Kycfy+07I2gsp4KTpUQHPgD8Czj3ysas1Urr
+akTG5eGHZ/gxkvdYwsYuWNx/ZnjvjgQ=
+=ABay
+-----END PGP SIGNATURE-----

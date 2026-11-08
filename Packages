@@ -1,0 +1,14 @@
+Package: aion-os-edu
+Architecture: amd64
+Version: 2026.11.08.2304
+Maintainer: Aion OS EDU
+Depends: python3, python3-gi
+Filename: ./aion-os-edu_2026.11.08.2304_amd64.deb
+Size: 2140880
+MD5sum: 8f5b77660cfa98a1ca51435953758a5f
+SHA1: b6422fa429b82651acbbbc3ef619f02372961ca1
+SHA256: b659fa15c7e232d26cc132c90b78be2976cae82858da73eb526fb614c8e8606f
+SHA512: 11e88ad5baeefbe32b72a1c6061ffadfc0283f899e6f9ed5c08ba76069a994da9a53c456836cd6f80c5292c7aa8488df7c97cc53d964a70c593c43ec0695652d
+Description: Aion OS EDU — applis et réglages d'Aion
+ Menu Démarrer, Paramètres, GateLab, Docteur, temps d'écran… (mise à jour à distance).
+
